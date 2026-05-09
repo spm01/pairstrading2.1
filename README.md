@@ -1,4 +1,4 @@
-# pairstrading2.1
+# pairstradingv2.1
 Updated version of my pairs trading strategy that applies OU test before executing trades.
 For context, the Ornstein-Uhlenbeck (OU) process half-life measures the expected time for a mean-reverting process to travel half the distance back to its long-term mean.
 
